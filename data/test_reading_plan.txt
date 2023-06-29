@@ -1,0 +1,5 @@
+INFORMACAO GERADA
+ID;SOL_ATENC;NO_ATENC;ID_PERSONA;F_ATENC;ID_SUBSEDE;ID_ATENC_PREFER;ID_SOLICITUD;COMENTARIO;ID_ESTADO;ID_TP_CATEG_ATENC;OUTRA_CAT_ATENC;N_MOD
+28457;Turno;XD330;10;20-04-2023 17:44:19;2;;;Este turno obs;bbbb foi criado assim com problemas;7;;;Setor de Compras
+28458;Turno;XD331;10;20-04-2023 17:44:19;2;;;Este turno foi criado assim com problemas;7;;;Setor de Compras
+28459;Turno;XD332;10;20-04-2023 17:44:19;2;;;Este turno foi criado assim com problemas;7;;;Setor de Compras
